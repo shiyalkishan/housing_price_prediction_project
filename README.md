@@ -38,7 +38,7 @@ This project aims to predict the median house value based on various features su
 Clone the repository:
 
 </> Bash
-git clone https://github.com/your-username/housing-price-prediction.git
+git clone https://github.com/shiyalkishan/housing_price_prediction_project.git
 cd housing-price-prediction
 
 Install dependencies:
