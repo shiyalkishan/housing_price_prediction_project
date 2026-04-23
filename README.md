@@ -16,22 +16,14 @@ This project aims to predict the median house value based on various features su
 • 🧠 Multiple models tested (Linear Regression, Decision Tree, Random Forest)
 
 🗂️ Project Structure :
-
-├── housing.csv     # Original dataset
-
-├── input.csv       # Test input data
-
-├── output.csv      # Predictions output
-
-├── model.pkl       # Trained ML model
-
-├── pipline.pkl     # Data preprocessing pipeline
-
-├── main.py         # Main execution script (train + inference)
-
-├── main_old.py     # Model comparison & evaluation
-
-└── README.md # Project documentation
+├── housing.csv          # Original dataset
+├── input.csv            # Test input data
+├── output.csv           # Predictions output
+├── model.pkl            # Trained ML model
+├── pipline.pkl          # Data preprocessing pipeline
+├── main.py              # Main execution script (train + inference)
+├── main_old.py          # Model comparison & evaluation
+└── README.md            # Project documentation
 
 🛠️ Technologies Used :
 
