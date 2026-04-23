@@ -40,7 +40,7 @@ Clone the repository:
 </> Bash
 git clone https://github.com/shiyalkishan/housing_price_prediction_project.git
 
-cd housing-price-prediction
+cd housing_price_prediction_project
 
 Install dependencies:
 
