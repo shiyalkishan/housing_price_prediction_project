@@ -123,7 +123,9 @@ Using:
 - RMSE (Root Mean Squared Error)
 
 📈 Sample Output
+
 Feature Inputs------Predicted Price
+
 Sample Row----------₹XXX,XXX
 
 (Output stored in output.csv)
