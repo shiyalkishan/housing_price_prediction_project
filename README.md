@@ -9,10 +9,15 @@ This project aims to predict the median house value based on various features su
 🚀 Features :
 
 • 📊 Data preprocessing using Pipeline and ColumnTransformer
+
 • 🔍 Stratified sampling for balanced dataset splitting
+
 • ⚙️ Automatic model training & saving
+
 • 🔁 Reusable pipeline for inference
+
 • 📈 Model prediction saved to CSV
+
 • 🧠 Multiple models tested (Linear Regression, Decision Tree, Random Forest)
 
 🗂️ Project Structure :
