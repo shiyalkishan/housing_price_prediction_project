@@ -17,21 +17,21 @@ This project aims to predict the median house value based on various features su
 
 🗂️ Project Structure :
 
-├── housing.csv_____# Original dataset
+├── housing.csv     # Original dataset
 
-├── input.csv_______# Test input data
+├── input.csv       # Test input data
 
-├── output.csv______# Predictions output
+├── output.csv      # Predictions output
 
-├── model.pkl_______# Trained ML model
+├── model.pkl       # Trained ML model
 
-├── pipline.pkl_____# Data preprocessing pipeline
+├── pipline.pkl     # Data preprocessing pipeline
 
-├── main.py_________# Main execution script (train + inference)
+├── main.py         # Main execution script (train + inference)
 
-├── main_old.py_____# Model comparison & evaluation
+├── main_old.py     # Model comparison & evaluation
 
-└── README.md_______# Project documentation
+└── README.md       # Project documentation
 
 🛠️ Technologies Used :
 
