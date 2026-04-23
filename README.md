@@ -29,9 +29,9 @@ This project aims to predict the median house value based on various features su
 
 ├── main.py_________# Main execution script (train + inference)
 
-├── main_old.py      # Model comparison & evaluation
+├── main_old.py_____# Model comparison & evaluation
 
-└── README.md        # Project documentation
+└── README.md_______# Project documentation
 
 🛠️ Technologies Used :
 • Python 🐍
