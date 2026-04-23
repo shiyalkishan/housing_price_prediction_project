@@ -22,6 +22,7 @@ This project aims to predict the median house value based on various features su
 
 🗂️ Project Structure :
 
+
 ├── housing.csv          # Original dataset
 
 ├── input.csv            # Test input data
