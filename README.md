@@ -34,11 +34,11 @@ This project aims to predict the median house value based on various features su
 └── README.md_______# Project documentation
 
 🛠️ Technologies Used :
-• Python 🐍
-• Pandas
-• NumPy
-• Scikit-learn
-• Joblib
+  • Python 🐍
+  • Pandas
+  • NumPy
+  • Scikit-learn
+  • Joblib
 
 ⚙️ Installation :
 
