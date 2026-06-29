@@ -58,7 +58,7 @@ This project aims to predict the median house value based on various features su
   • Scikit-learn
   
   • Joblib
----
+
 ## ⚙️ Installation :
 
 Clone the repository:
