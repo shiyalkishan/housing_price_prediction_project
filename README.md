@@ -3,10 +3,12 @@
 A complete Machine Learning project that predicts housing prices using structured data. This project demonstrates an end-to-end ML pipeline including data preprocessing, model training, evaluation, and inference.
 
 📌 Project Overview :
+---
 
 This project aims to predict the median house value based on various features such as income, location, and housing characteristics. It uses a Random Forest Regressor along with a robust preprocessing pipeline.
 
 🚀 Features :
+---
 
 • 📊 Data preprocessing using Pipeline and ColumnTransformer
 
