@@ -80,7 +80,7 @@ Or manually:
 </> Bash
 
 pip install pandas numpy scikit-learn joblib
----
+
 ## ▶️ How to Run :
 
 🔹 Step 1: Train Model (First Run)
