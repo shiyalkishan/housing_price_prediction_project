@@ -46,9 +46,9 @@ This project aims to predict the median house value based on various features su
 
 └── README.md            # Project documentation
 ```
-
-🛠️ Technologies Used :
 ---
+## 🛠️ Technologies Used :
+
   • Python 
   
   • Pandas
