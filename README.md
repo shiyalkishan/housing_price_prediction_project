@@ -58,17 +58,17 @@ This project aims to predict the median house value based on various features su
   • Scikit-learn
   
   • Joblib
-
-⚙️ Installation :
+---
+## ⚙️ Installation :
 
 Clone the repository:
-
+---
 </> Bash
-
+---
 git clone https://github.com/shiyalkishan/housing_price_prediction_project.git
-
+---
 cd housing_price_prediction_project
-
+---
 Install dependencies:
 
 </> Bash
