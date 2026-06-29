@@ -62,13 +62,13 @@ This project aims to predict the median house value based on various features su
 ## ⚙️ Installation :
 
 Clone the repository:
----
+
 </> Bash
----
+
 git clone https://github.com/shiyalkishan/housing_price_prediction_project.git
----
+
 cd housing_price_prediction_project
----
+
 Install dependencies:
 
 </> Bash
@@ -80,8 +80,8 @@ Or manually:
 </> Bash
 
 pip install pandas numpy scikit-learn joblib
-
-▶️ How to Run :
+---
+## ▶️ How to Run :
 
 🔹 Step 1: Train Model (First Run)
 
@@ -109,7 +109,7 @@ python main.py
 - Predicts house prices
 - Saves results to output.csv
 
-🧠 ML Pipeline Explanation :
+## 🧠 ML Pipeline Explanation :
 
 🔸 Numerical Data Processing:
   - Missing values → Median Imputation
@@ -119,7 +119,7 @@ python main.py
 🔸 Model Used:
   -🌲 Random Forest Regressor (final model)
 
-📊 Model Evaluation (from main_old.py)
+## 📊 Model Evaluation (from main_old.py)
 
 The project compares:
 - Linear Regression
@@ -129,7 +129,7 @@ Using:
 - Cross-validation (CV = 10)
 - RMSE (Root Mean Squared Error)
 
-📈 Sample Output
+## 📈 Sample Output
 
 Feature Inputs------Predicted Price
 
@@ -137,7 +137,7 @@ Sample Row----------₹XXX,XXX
 
 (Output stored in output.csv)
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - Hyperparameter tuning (GridSearchCV)
 - Model deployment (Flask / FastAPI)
 - Add visualization dashboard
@@ -146,14 +146,14 @@ Sample Row----------₹XXX,XXX
 
 Pull requests are welcome. For major changes, please open an issue first.
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Kishan Shiyal
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
