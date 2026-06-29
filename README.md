@@ -20,7 +20,7 @@ This project aims to predict the median house value based on various features su
 
 • 🧠 Multiple models tested (Linear Regression, Decision Tree, Random Forest)
 
-
+---
 🗂️ Project Structure :
 '''
 ├── housing.csv          # Original dataset
@@ -39,6 +39,7 @@ This project aims to predict the median house value based on various features su
 
 └── README.md            # Project documentation
 '''
+---
 🛠️ Technologies Used :
 
   • Python 
