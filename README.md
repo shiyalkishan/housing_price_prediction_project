@@ -63,7 +63,7 @@ This project aims to predict the median house value based on various features su
 
 Clone the repository:
 
-</> Bash
+# </> Bash
 
 git clone https://github.com/shiyalkishan/housing_price_prediction_project.git
 
@@ -71,13 +71,13 @@ cd housing_price_prediction_project
 
 Install dependencies:
 
-</> Bash
+# </> Bash
 
 pip install -r requirements.txt
 
 Or manually:
 
-</> Bash
+# </> Bash
 
 pip install pandas numpy scikit-learn joblib
 
